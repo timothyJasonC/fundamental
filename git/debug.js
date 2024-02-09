@@ -6,4 +6,8 @@ const no1 = () => {
         console.log(`${input} x ${i} = ${input*i}`);
     }
 }
-no1()
+// no1()
+
+const no2 = () => {
+    
+}
